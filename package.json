@@ -1,0 +1,27 @@
+{
+    "name": "@aayusht200/isdropdown",
+    "version": "1.0.0",
+    "description": "A lightweight reusable dropdown toggle utility written in vanilla JavaScript.",
+    "keywords": [
+        "dropdown",
+        "ui",
+        "vanilla-js",
+        "component",
+        "frontend"
+    ],
+    "homepage": "https://github.com/aayusht200/isDropdown#readme",
+    "bugs": {
+        "url": "https://github.com/aayusht200/isDropdown/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aayusht200/isDropdown.git"
+    },
+    "license": "ISC",
+    "author": "Aayush Trivedi",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
